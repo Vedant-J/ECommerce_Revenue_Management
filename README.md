@@ -72,4 +72,4 @@ This repository contains an Exploratory Data Analysis (EDA) report for an E-Comm
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vedant-J/ECommerce-EDA-Report.git
+   git clone https://github.com/Vedant-J/ECommerce_Revenue_Management.git
